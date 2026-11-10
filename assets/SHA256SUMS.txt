@@ -1,0 +1,5 @@
+20a084fdec644c73fc680d7e4d5d8942c220cdc051e2225e428ba56d34067ab9  cgv-seat-alarm-0.2.3-setup.exe
+2e905dffcf74cefd7b21fa93bc53a1ef4c1e21ca9b630310607f58cd7fe7c873  cgv-seat-alarm-0.2.3-setup.exe.sig
+331161133d9970053be824cf49a6b0c41a2a2cdd66aa176628723ef944935f27  latest.json
+b413295ede479ca04aefe7558a177f540ef7cf52f9debd8ff7b27ca3463dee57  release-notes.md
+d33ca86fd67b6158ac83ede91c7de39ff28e8bd92602980683c09d94e49cd170  release-info.json
