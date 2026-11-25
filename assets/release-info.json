@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "repository": "asheept/cgv-seat-alarm-releases",
+  "tag": "v0.2.9",
+  "version": "0.2.9",
+  "installer": "cgv-seat-alarm-0.2.9-setup.exe",
+  "updater": "cgv-seat-alarm-0.2.9-setup.exe",
+  "signature": "cgv-seat-alarm-0.2.9-setup.exe.sig",
+  "files": {
+    "cgv-seat-alarm-0.2.9-setup.exe": "65a77aac2fc1ce2159d3f6d36c4dd8f4c3c63db6a7d86b818c4e56653da2fe07",
+    "cgv-seat-alarm-0.2.9-setup.exe.sig": "09aeff166605073acd1b25f9291570d4ae8d33067e1edec3c759a36ff0c6e0e5",
+    "latest.json": "6ceb9284c6281c8a0b59ea4d222f7e1a677641514db9fdbdf370e698e3949a2a",
+    "release-notes.md": "a3c0b0c093b893a1c7c0a83d29a6b9c4f424660f87fe2af720159a02206e2b56"
+  }
+}
