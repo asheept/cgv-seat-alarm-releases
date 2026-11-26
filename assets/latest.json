@@ -1,0 +1,11 @@
+{
+  "version": "0.2.10",
+  "notes": "Release v0.2.10",
+  "pub_date": "2026-11-26T12:18:57.173Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUHhhMmlaWlN5T0p5N2ZqZjdHYVBYcU9zN0dzWmRxc2lsb3liaG5wK0YvRnlXQmh3STNGeHJEYWdSNWdtVXp6bmlCMGJJbC9Lek55L0RrVWtQazFYdm1YREw4c3NScFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk1NTM2CWZpbGU6Q0dWIOyijOyEnSDslYzrpqzrr7hfMC4yLjEwX3g2NC1zZXR1cC5leGUKK2VSSXpGa1BEOVJzK1VIdFlUeG5HT0NWeXc4eHBUbDUvcFB0SlhYb1JDcStyTWhVU2NtaSs2L2hhZGM4eDc0RGJsSzdrR1dJRFVGczZkWlU3cmd6QXc9PQo=",
+      "url": "https://github.com/asheept/cgv-seat-alarm-releases/releases/download/v0.2.10/cgv-seat-alarm-0.2.10-setup.exe"
+    }
+  }
+}
